@@ -1,0 +1,4 @@
+﻿  RomanNumerals.cpp
+c:\users\karen\source\repos\romannumerals\romannumerals\romannumerals.cpp(56): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+c:\users\karen\source\repos\romannumerals\romannumerals\romannumerals.cpp(57): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  RomanNumerals.vcxproj -> C:\Users\karen\source\repos\RomanNumerals\Debug\RomanNumerals.exe
